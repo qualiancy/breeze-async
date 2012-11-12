@@ -1,0 +1,15 @@
+{
+    "name": "breeze-async"
+  , "repo": "qualiancy/breeze-async"
+  , "version": "0.0.0"
+  , "description": "Simple series and parallel flow control."
+  , "license": "MIT"
+  , "keywords": [
+    ]
+  , "main": "lib/async.js"
+  , "scripts": [
+        "lib/async.js"
+    ]
+  , "dependencies": {}
+  , "development": {}
+}
