@@ -1,4 +1,4 @@
-# breeze-async
+# breeze-async [![Build Status](https://secure.travis-ci.org/qualiancy/breeze-async.png?branch=master)](https://travis-ci.org/qualiancy/breeze-async)
 
 > Simple series and parallel flow control.
 
